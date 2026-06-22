@@ -22,3 +22,5 @@ To explore our technical documentation, product specifications, and custom testi
 
 ---
 *This repository serves as an open hub for technical documentation and system integration updates.*
+
+Find us on [LinkedIn](https://www.linkedin.com/company/torquexact/) and [X](https://x.com/torquexact/)
